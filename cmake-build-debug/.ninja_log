@@ -1,0 +1,8 @@
+# ninja log v6
+2	494	7778987104650180	CMakeFiles/MatchingEngine.dir/main.cpp.obj	b755ecc378ceb5f4
+21	269	7784383660900206	MatchingEngine.exe	2d4ef7b0a94303f9
+27	1639	7784366147496888	CMakeFiles/MatchingEngine.dir/src/main.cpp.obj	1a75f82e973fe8d6
+1	231	7784386221988635	build.ninja	afc95b36b372d2a1
+20	2737	7784375904190590	CMakeFiles/MatchingEngine.dir/src/bench.cpp.obj	283eefd725bcef47
+2	3031	7784383791438680	CMakeFiles/me_bench.dir/src/bench.cpp.obj	609b8014bc47df94
+3032	3673	7784383821737673	me_bench.exe	795f217f9033dc05
